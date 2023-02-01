@@ -12,6 +12,8 @@ https://github.com/bnl/pub-Maffettone_2021_04
 Setup
 =====
 
+Install from github::
+
     $ conda create -n nmf_env python==3.8 pip
     $ conda activate nmf_env
     $ python -m pip install --upgrade pip wheel
